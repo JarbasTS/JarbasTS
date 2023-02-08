@@ -36,7 +36,7 @@
 
 <p align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JarbasTS&show_icons=true&theme=tokyonight" alt="JarbasTS's stats"/>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbasTS&layout=compact&theme=tokyonight" alt="JarbasTS's most languages"/>
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbasTS&layout=compact&theme=tokyonight" alt="JarbasTS's most languages"/>
 </p>
 
 
