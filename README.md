@@ -16,9 +16,9 @@
   <a href="https://www.linkedin.com/in/jarbasts/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-JarbasTS-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>&nbsp;
-  <a href="mailto:jarbastavares7@gmail.com" target="_blank">
+  <!-- <a href="mailto:jarbastavares7@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-JarbasTS-05122A?style=flat&logo=gmail" alt="gmail"/>
-  </a>
+  </a> -->
   
 </p>
 
