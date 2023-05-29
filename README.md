@@ -3,7 +3,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=JarbasTS&color=blue " alt="Profile views" /> </p>
 
 <h2 align="center" >
-   🚀 Beginner Developer.
+   🚀 Software developer.
 </h2>
 
 
