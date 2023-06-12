@@ -10,8 +10,8 @@
 
 <p align="center" >
 
-  <a href="https://twitter.com/t_jarbas" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-JarbasTS-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <a href="https://twitter.com/TsJarbas" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-TsJarbas-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/jarbasts/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-JarbasTS-05122A?style=flat&logo=linkedin" alt="linkedin"/>
