@@ -1,26 +1,59 @@
-### Hi✋, I'm Jarbas Tavares
+<h1 align="left">Hey 👋, I'm Jarbas Tavares</h1>
 
-<p align="left" >
-
-<a href="https://www.linkedin.com/in/jarbasts/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-JarbasTS-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>&nbsp; 
-  <a href="https://twitter.com/TsJarbas" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-TsJarbas-05122A?style=flat&logo=twitter" alt="twitter"/>  
-  </a>&nbsp;  
-  <a href="https://www.instagram.com/jarbasts/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-JarbasTS-05122A?style=flat&logo=Instagram" alt="Instagram"/>
-  </a>&nbsp; 
-  
+<p align="left">
+  <b>Software Developer</b> — I build and ship web & mobile products with React, TypeScript and Python.
 </p>
 
-### 🚀 Software developer.
+<p align="left">
+  <a href="https://www.linkedin.com/in/jarbasts/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/TsJarbas" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/jarbasts/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://komarev.com/ghpvc/?username=JarbasTS&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-<div align="left">
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+### 🧑‍💻 About me
 
-</div>
+- 🚀 Software developer building SaaS, web platforms and mobile apps
+- ⚛️ Daily driver: **React + TypeScript + Vite**, with **Django/Python** on the backend
+- 🤖 Heavy user of AI coding agents — I invest in rules, skills and docs to make them actually useful
+- 🔨 Currently building **[Kervo](https://kervo.app)** — kanban-based task & project organization
+- 🇧🇷 Based in Brazil · Open to new opportunities
+
+---
+
+### 🛠️ Tech stack
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend stack"/>
+</p>
+
+**Backend & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres,docker,git,github&theme=dark" alt="Backend stack"/>
+</p>
+
+**Libs I love:** Zustand · shadcn/ui · React Router · React Native / Expo
+
+---
+
+### 📊 GitHub stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JarbasTS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbasTS&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=JarbasTS&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="left">
+  💬 Wanna build something together? Hit me up on <a href="https://www.linkedin.com/in/jarbasts/">LinkedIn</a>.
+</p>
