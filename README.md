@@ -66,19 +66,6 @@ jarbas@github:~$ ls ~/projects --featured
 ```
 
 ```bash
-jarbas@github:~$ gh stats --user JarbasTS
-```
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JarbasTS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=39D353&icon_color=39D353" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbasTS&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=39D353" alt="Top languages"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=JarbasTS&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub streak"/>
-</p>
-
-```bash
 jarbas@github:~$ cat contact.sh
 ```
 
