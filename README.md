@@ -34,23 +34,9 @@
 **Backend & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,postgres,docker,git,github&theme=dark" alt="Backend stack"/>
+  <img src="https://skillicons.dev/icons?i=python,django,rust,nodejs,postgres,docker,git,github&theme=dark" alt="Backend stack"/>
 </p>
-
 **Libs I love:** Zustand · shadcn/ui · React Router · React Native / Expo
-
----
-
-### 📊 GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JarbasTS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarbasTS&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=JarbasTS&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-</p>
 
 ---
 
